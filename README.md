@@ -1,1 +1,1 @@
-# ImageClassification.ML.NET and Tensorflow
+# Image Classification using ML.NET and Tensorflow
